@@ -50,7 +50,7 @@ import java.util.*;
 
 class JavaBigDecimal{
 
-    public static void main(String []argh)
+    public static void main(String []args)
     {
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();

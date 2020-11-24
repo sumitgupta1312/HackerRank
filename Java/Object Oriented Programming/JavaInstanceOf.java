@@ -51,7 +51,7 @@ public class JavaInstanceOf
       return ret;
    }
 
-   public static void main(String []argh)
+   public static void main(String []args)
    {
       ArrayList mylist=new ArrayList();
       Scanner sc=new Scanner(System.in);
